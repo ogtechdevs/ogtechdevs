@@ -22,7 +22,7 @@
 
 > **My social networks  ** 
 
-[<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/michel.oliveiras) [<img width='40px' src='https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk'>](https://twitter.com/oliveiramsdevs)  [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZo5-hu4ljBUa_wkUtCb8-MeGtuOQ0MD_wIQ&usqp=CAU'>](https://www.linkedin.com/in/micheloliveiras)
+[<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://www.instagram.com/ogtechdevs/)   [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZo5-hu4ljBUa_wkUtCb8-MeGtuOQ0MD_wIQ&usqp=CAU'>](https://www.linkedin.com/company/ogtechdevs/)
 
 <div align="center">
   
