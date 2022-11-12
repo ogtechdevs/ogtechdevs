@@ -1,5 +1,5 @@
-### E ai? Eu sou, [Michel Oliveira](https://www.linkedin.com/in/micheloliveiras/). 
-### I'm, Michel Oliveira. ^^
+### We are, [ogtech devs](https://www.linkedin.com/company/ogtechdevs/). 
+
 
 >**I have studied programming since I was 14 years old, but I never dedicated myself to this area, in 2019, I dedicated myself to programming and today I work as an MVP developer for StartUps and businesses.**
 
@@ -10,23 +10,17 @@
 
 ##
 
->**Estudo programação desde meus 14 anos, porém nunca me dediquei a essa área, em 2019 me dediquei a programação e hoje trabalho como desenvolvedor de MVP para StartUps e negócios.**
-
-- 🏆Sucesso não aceita preguiça🏆 
-- 🔭 Atualmente estou trabalhando no desenvolvimento de produtos financeiros Flutter 
-- 🌱 Atualmente estou aprendendo **Cyber Security, Pentest** 
-- 💬 Sou desenvolvedor/ progamador e Executivo Novos Negócios na **[ogtech devs](https://www.linkedin.com/company/ogtechdevs/).**
 
 
 
-> **My Skills / Minhas Habilidades  **
+> **My Skills **
 
 <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png' width='40px'> <img src='https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg' width='40px'> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj2noMOfz2H5Jl-AM5XWyHUJ8DY50DciBRkQ&usqp=CAU' width='40px'> <img src='https://intellipaat.com/mediaFiles/2019/02/Solidity-Logo.jpg' width='37px'> 
 
 
 
 
-> **My social networks / Minhas redes sociais ** 
+> **My social networks  ** 
 
 [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAyPXHOk27_8BVJkWr1aK0I6uYzVfN-MIFwA&usqp=CAU'>](https://instagram.com/michel.oliveiras) [<img width='40px' src='https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk'>](https://twitter.com/oliveiramsdevs)  [<img width='40px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZo5-hu4ljBUa_wkUtCb8-MeGtuOQ0MD_wIQ&usqp=CAU'>](https://www.linkedin.com/in/micheloliveiras)
 
